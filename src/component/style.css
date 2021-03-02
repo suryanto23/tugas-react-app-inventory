@@ -1,0 +1,11 @@
+.userProfile {
+}
+
+.userProfile img {
+	width: 150px;
+}
+
+.plain img {
+	height: 300px;
+	object-fit: cover;
+}
